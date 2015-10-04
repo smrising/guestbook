@@ -1,0 +1,300 @@
+0.0.M5/sisu-inject-0.0.0.M5.pom (14 KB at 109.3 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-cla
+ssworlds/2.4/plexus-classworlds-2.4.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-clas
+sworlds/2.4/plexus-classworlds-2.4.pom (4 KB at 30.3 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.
+2.3/maven-core-3.2.3.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.2
+.3/maven-core-3.2.3.pom (8 KB at 67.8 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-setting
+s/3.2.3/maven-settings-3.2.3.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings
+/3.2.3/maven-settings-3.2.3.pom (3 KB at 17.0 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-setting
+s-builder/3.2.3/maven-settings-builder-3.2.3.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings
+-builder/3.2.3/maven-settings-builder-3.2.3.pom (3 KB at 18.1 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-int
+erpolation/1.19/plexus-interpolation-1.19.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-inte
+rpolation/1.19/plexus-interpolation-1.19.pom (2 KB at 10.7 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-reposit
+ory-metadata/3.2.3/maven-repository-metadata-3.2.3.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-reposito
+ry-metadata/3.2.3/maven-repository-metadata-3.2.3.pom (3 KB at 20.0 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-b
+uilder/3.2.3/maven-model-builder-3.2.3.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-bu
+ilder/3.2.3/maven-model-builder-3.2.3.pom (3 KB at 21.9 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-
+provider/3.2.3/maven-aether-provider-3.2.3.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-p
+rovider/3.2.3/maven-aether-provider-3.2.3.pom (4 KB at 28.6 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-api/
+0.9.0.M2/aether-api-0.9.0.M2.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-api/0
+.9.0.M2/aether-api-0.9.0.M2.pom (2 KB at 13.6 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether/0.9.
+0.M2/aether-0.9.0.M2.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether/0.9.0
+.M2/aether-0.9.0.M2.pom (28 KB at 144.8 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-spi/
+0.9.0.M2/aether-spi-0.9.0.M2.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-spi/0
+.9.0.M2/aether-spi-0.9.0.M2.pom (2 KB at 13.7 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-util
+/0.9.0.M2/aether-util-0.9.0.M2.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-util/
+0.9.0.M2/aether-util-0.9.0.M2.pom (2 KB at 18.2 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-impl
+/0.9.0.M2/aether-impl-0.9.0.M2.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-impl/
+0.9.0.M2/aether-impl-0.9.0.M2.pom (4 KB at 30.0 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-cla
+ssworlds/2.5.1/plexus-classworlds-2.5.1.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-clas
+sworlds/2.5.1/plexus-classworlds-2.5.1.pom (5 KB at 39.1 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3
+.2.1/maven-model-3.2.1.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.
+2.1/maven-model-3.2.1.pom (5 KB at 37.1 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven/3.2.1/m
+aven-3.2.1.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven/3.2.1/ma
+ven-3.2.1.pom (23 KB at 156.5 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-api/
+0.9.1.v20140329/aether-api-0.9.1.v20140329.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-api/0
+.9.1.v20140329/aether-api-0.9.1.v20140329.pom (2 KB at 13.1 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether/0.9.
+1.v20140329/aether-0.9.1.v20140329.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether/0.9.1
+.v20140329/aether-0.9.1.v20140329.pom (30 KB at 169.7 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-util
+/0.9.1.v20140329/aether-util-0.9.1.v20140329.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-util/
+0.9.1.v20140329/aether-util-0.9.1.v20140329.pom (3 KB at 22.8 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/com/google/guava/guava/18.0/gu
+ava-18.0.pom
+Downloaded: https://repo.maven.apache.org/maven2/com/google/guava/guava/18.0/gua
+va-18.0.pom (6 KB at 39.2 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/
+18.0/guava-parent-18.0.pom
+Downloaded: https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/1
+8.0/guava-parent-18.0.pom (8 KB at 68.9 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/com/google/appengine/appengine
+-tools-sdk/1.9.27/appengine-tools-sdk-1.9.27.pom
+Downloaded: https://repo.maven.apache.org/maven2/com/google/appengine/appengine-
+tools-sdk/1.9.27/appengine-tools-sdk-1.9.27.pom (605 B at 6.3 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/com/google/appengine/appengine
+-local-endpoints/1.9.27/appengine-local-endpoints-1.9.27.pom
+Downloaded: https://repo.maven.apache.org/maven2/com/google/appengine/appengine-
+local-endpoints/1.9.27/appengine-local-endpoints-1.9.27.pom (2 KB at 9.4 KB/sec)
+
+Downloading: https://repo.maven.apache.org/maven2/com/google/appengine/appengine
+-endpoints/1.9.27/appengine-endpoints-1.9.27.pom
+Downloaded: https://repo.maven.apache.org/maven2/com/google/appengine/appengine-
+endpoints/1.9.27/appengine-endpoints-1.9.27.pom (836 B at 2.4 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/eu/infomas/annotation-detector
+/3.0.4/annotation-detector-3.0.4.pom
+Downloaded: https://repo.maven.apache.org/maven2/eu/infomas/annotation-detector/
+3.0.4/annotation-detector-3.0.4.pom (2 KB at 10.0 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/eu/infomas/infomas-asl/3.0.4/i
+nfomas-asl-3.0.4.pom
+Downloaded: https://repo.maven.apache.org/maven2/eu/infomas/infomas-asl/3.0.4/in
+fomas-asl-3.0.4.pom (13 KB at 89.9 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/9/
+oss-parent-9.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/9/o
+ss-parent-9.pom (7 KB at 58.9 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/slf4j/slf4j-nop/1.7.7/slf4
+j-nop-1.7.7.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/slf4j/slf4j-nop/1.7.7/slf4j
+-nop-1.7.7.pom (2 KB at 13.3 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.7/s
+lf4j-parent-1.7.7.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.7/sl
+f4j-parent-1.7.7.pom (12 KB at 93.0 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4
+j-api-1.7.7.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j
+-api-1.7.7.pom (3 KB at 24.1 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-
+api/3.2.3/maven-plugin-api-3.2.3.jar
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifac
+t/3.2.3/maven-artifact-3.2.3.jar
+Downloading: https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0/c
+di-api-1.0.jar
+Downloading: https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.s
+isu.plexus/0.0.0.M5/org.eclipse.sisu.plexus-0.0.0.M5.jar
+Downloading: https://repo.maven.apache.org/maven2/javax/annotation/jsr250-api/1.
+0/jsr250-api-1.0.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact
+/3.2.3/maven-artifact-3.2.3.jar (53 KB at 224.2 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/ja
+vax.inject-1.jar
+Downloaded: https://repo.maven.apache.org/maven2/javax/annotation/jsr250-api/1.0
+/jsr250-api-1.0.jar (6 KB at 17.4 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-guice/3
+.1.0/sisu-guice-3.1.0-no_aop.jar
+Downloaded: https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/jav
+ax.inject-1.jar (3 KB at 6.2 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/ao
+palliance-1.0.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-a
+pi/3.2.3/maven-plugin-api-3.2.3.jar (45 KB at 68.1 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.s
+isu.inject/0.0.0.M5/org.eclipse.sisu.inject-0.0.0.M5.jar
+Downloaded: https://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aop
+alliance-1.0.jar (5 KB at 5.3 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.
+2.3/maven-core-3.2.3.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.si
+su.plexus/0.0.0.M5/org.eclipse.sisu.plexus-0.0.0.M5.jar (192 KB at 188.9 KB/sec)
+
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-setting
+s/3.2.3/maven-settings-3.2.3.jar
+Downloaded: https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0/cd
+i-api-1.0.jar (44 KB at 41.9 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-setting
+s-builder/3.2.3/maven-settings-builder-3.2.3.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings
+/3.2.3/maven-settings-3.2.3.jar (42 KB at 27.2 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-reposit
+ory-metadata/3.2.3/maven-repository-metadata-3.2.3.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings
+-builder/3.2.3/maven-settings-builder-3.2.3.jar (43 KB at 22.2 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-b
+uilder/3.2.3/maven-model-builder-3.2.3.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-reposito
+ry-metadata/3.2.3/maven-repository-metadata-3.2.3.jar (26 KB at 12.0 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-
+provider/3.2.3/maven-aether-provider-3.2.3.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-guice/3.
+1.0/sisu-guice-3.1.0-no_aop.jar (350 KB at 150.9 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-spi/
+0.9.0.M2/aether-spi-0.9.0.M2.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-spi/0
+.9.0.M2/aether-spi-0.9.0.M2.jar (18 KB at 5.9 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-impl
+/0.9.0.M2/aether-impl-0.9.0.M2.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-p
+rovider/3.2.3/maven-aether-provider-3.2.3.jar (63 KB at 21.0 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-int
+erpolation/1.19/plexus-interpolation-1.19.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.si
+su.inject/0.0.0.M5/org.eclipse.sisu.inject-0.0.0.M5.jar (285 KB at 92.5 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-uti
+ls/3.0.17/plexus-utils-3.0.17.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-bu
+ilder/3.2.3/maven-model-builder-3.2.3.jar (165 KB at 45.5 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-cla
+ssworlds/2.5.1/plexus-classworlds-2.5.1.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-inte
+rpolation/1.19/plexus-interpolation-1.19.jar (61 KB at 15.1 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3
+.2.1/maven-model-3.2.1.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-clas
+sworlds/2.5.1/plexus-classworlds-2.5.1.jar (49 KB at 10.7 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-api/
+0.9.1.v20140329/aether-api-0.9.1.v20140329.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-impl/
+0.9.0.M2/aether-impl-0.9.0.M2.jar (142 KB at 30.6 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-util
+/0.9.1.v20140329/aether-util-0.9.1.v20140329.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-util
+s/3.0.17/plexus-utils-3.0.17.jar (246 KB at 42.4 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/com/google/guava/guava/18.0/gu
+ava-18.0.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.
+2.1/maven-model-3.2.1.jar (157 KB at 26.5 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/com/google/appengine/appengine
+-tools-sdk/1.9.27/appengine-tools-sdk-1.9.27.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-api/0
+.9.1.v20140329/aether-api-0.9.1.v20140329.jar (134 KB at 22.5 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/com/google/appengine/appengine
+-local-endpoints/1.9.27/appengine-local-endpoints-1.9.27.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-util/
+0.9.1.v20140329/aether-util-0.9.1.v20140329.jar (143 KB at 23.0 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/com/google/appengine/appengine
+-endpoints/1.9.27/appengine-endpoints-1.9.27.jar
+Downloaded: https://repo.maven.apache.org/maven2/com/google/appengine/appengine-
+local-endpoints/1.9.27/appengine-local-endpoints-1.9.27.jar (80 KB at 11.4 KB/se
+c)
+Downloading: https://repo.maven.apache.org/maven2/eu/infomas/annotation-detector
+/3.0.4/annotation-detector-3.0.4.jar
+Downloaded: https://repo.maven.apache.org/maven2/eu/infomas/annotation-detector/
+3.0.4/annotation-detector-3.0.4.jar (15 KB at 2.0 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/slf4j/slf4j-nop/1.7.7/slf4
+j-nop-1.7.7.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/slf4j/slf4j-nop/1.7.7/slf4j
+-nop-1.7.7.jar (4 KB at 0.5 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4
+j-api-1.7.7.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j
+-api-1.7.7.jar (29 KB at 3.4 KB/sec)
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.2
+.3/maven-core-3.2.3.jar (578 KB at 50.8 KB/sec)
+Downloaded: https://repo.maven.apache.org/maven2/com/google/appengine/appengine-
+endpoints/1.9.27/appengine-endpoints-1.9.27.jar (1986 KB at 103.1 KB/sec)
+Downloaded: https://repo.maven.apache.org/maven2/com/google/guava/guava/18.0/gua
+va-18.0.jar (2204 KB at 104.7 KB/sec)
+Downloaded: https://repo.maven.apache.org/maven2/com/google/appengine/appengine-
+tools-sdk/1.9.27/appengine-tools-sdk-1.9.27.jar (8400 KB at 255.1 KB/sec)
+[INFO]
+[INFO] Google App Engine Java SDK - Running Development Server
+[INFO]
+[INFO] Retrieving Google App Engine Java SDK from Maven
+Downloading: https://repo.maven.apache.org/maven2/com/google/appengine/appengine
+-java-sdk/1.9.27/appengine-java-sdk-1.9.27.zip
+Downloaded: https://repo.maven.apache.org/maven2/com/google/appengine/appengine-
+java-sdk/1.9.27/appengine-java-sdk-1.9.27.zip (164209 KB at 437.8 KB/sec)
+[INFO] Running C:\Program Files\Java\jdk1.7.0_67\jre\bin\java -javaagent:C:\User
+s\Rama\.m2\repository\com\google\appengine\appengine-java-sdk\1.9.27\appengine-j
+ava-sdk\appengine-java-sdk-1.9.27\lib\agent\appengine-agent.jar -Xbootclasspath/
+p:C:\Users\Rama\.m2\repository\com\google\appengine\appengine-java-sdk\1.9.27\ap
+pengine-java-sdk\appengine-java-sdk-1.9.27\lib\override\appengine-dev-jdk-overri
+des.jar -Dappengine.fullscan.seconds=5 -classpath C:\Users\Rama\.m2\repository\c
+om\google\appengine\appengine-java-sdk\1.9.27\appengine-java-sdk\appengine-java-
+sdk-1.9.27\lib\appengine-tools-api.jar com.google.appengine.tools.development.De
+vAppServerMain --allow_remote_shutdown C:\GAEMavin\guestbook\target/guestbook-1.
+0-SNAPSHOT
+[INFO] ********************************************************
+[INFO] The API version in this SDK is no longer supported on the server!
+[INFO] -----------
+[INFO] Latest SDK:
+[INFO] Release: 1.9.27
+[INFO] Timestamp: Tue Aug 18 14:28:24 EDT 2015
+[INFO] API versions: [1]
+[INFO]
+[INFO] -----------
+[INFO] Your SDK:
+[INFO] Release: 1.9.27
+[INFO] Timestamp: Wed Sep 02 16:29:33 EDT 2015
+[INFO] API versions: [1.0]
+[INFO]
+[INFO] -----------
+[INFO] Please visit https://developers.google.com/appengine/downloads for the la
+test SDK.
+[INFO] ********************************************************
+[INFO] Oct 02, 2015 2:58:11 PM com.google.appengine.tools.development.SystemProp
+ertiesManager setSystemProperties
+[INFO] INFO: Overwriting system property key 'java.util.logging.config.file', va
+lue 'C:\Users\Rama\.m2\repository\com\google\appengine\appengine-java-sdk\1.9.27
+\appengine-java-sdk\appengine-java-sdk-1.9.27\config\sdk\logging.properties' wit
+h value 'WEB-INF/logging.properties' from 'C:\GAEMavin\guestbook\target\guestboo
+k-1.0-SNAPSHOT\WEB-INF\appengine-web.xml'
+[INFO]
+[INFO] ************************************************
+[INFO] Could not open the requested socket: Address already in use: bind
+[INFO] Try overriding --address and/or --port.
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 07:29 min
+[INFO] Finished at: 2015-10-02T14:58:11-04:00
+[INFO] Final Memory: 29M/239M
+[INFO] ------------------------------------------------------------------------
+
+C:\GAEMavin\guestbook>
